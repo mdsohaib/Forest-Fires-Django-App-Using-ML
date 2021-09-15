@@ -1,4 +1,4 @@
-<div align="center"> <img src="Screenshots/main.png" width="400" height="250"> </center> </div>
+<div align="center"> <img src="Screenshots/main.jfif" width="400" height="250"> </center> </div>
 
 <i>
 <p> Link- </p>
@@ -42,12 +42,12 @@ This is the last part of the course where we will deploy the Django application 
   <h1> Screenshots </h1>
   <h2> Input Screen </h2>
 <img src="Screenshots/Screenshot (1).png" /> 
-  
+    <img src="Screenshots/Screenshot (2).png" /> 
   <br><br>
   
 <h2> Output Screen </h2> 
 
-  <img src="Screenshots/Screenshot (2).png" /> 
+  <img src="Screenshots/Screenshot (3).png" /> 
   <br><br>
 
 
